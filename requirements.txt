@@ -2,3 +2,6 @@ composio-crewai
 crewai
 langchain-openai
 python-dotenv
+PyPDF2
+streamlit
+google.generativeai
