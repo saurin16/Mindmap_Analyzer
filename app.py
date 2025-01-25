@@ -136,7 +136,7 @@ def create_markmap_html(markdown_content):
 def main():
     st.set_page_config(layout="wide")
     
-    st.title("📚 SAM'S.AI PDF to Interactive Mindmap Converter ")
+    st.title("📚 AI PDF to Interactive Mindmap Converter ")
     st.markdown("""
     
     """)
